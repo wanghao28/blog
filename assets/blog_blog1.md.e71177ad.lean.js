@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,N as l}from"./chunks/framework.294d0221.js";const b=JSON.parse('{"title":"vitepress搭建静态博客","description":"","frontmatter":{},"headers":[],"relativePath":"blog/blog1.md"}'),p={name:"blog/blog1.md"},e=l("",76),o=[e];function t(r,c,i,D,y,F){return a(),n("div",null,o)}const u=s(p,[["render",t]]);export{b as __pageData,u as default};

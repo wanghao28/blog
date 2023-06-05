@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,N as o}from"./chunks/framework.294d0221.js";const m=JSON.parse('{"title":"优豆云免费服务器","description":"","frontmatter":{},"headers":[],"relativePath":"blog/essay28.md"}'),r={name:"blog/essay28.md"},s=o("",3),n=[s];function _(c,d,i,l,h,p){return t(),a("div",null,n)}const f=e(r,[["render",_]]);export{m as __pageData,f as default};
